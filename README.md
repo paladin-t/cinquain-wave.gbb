@@ -1,6 +1,6 @@
-## Trilinear Wave
+## Cinquain Wave
 
-Trilinear Wave is a [GB BASIC](https://paladin-t.github.io/kits/gbb/) program runs on Game Boy, which generates animated wave endlessly.
+Cinquain Wave is a [GB BASIC](https://paladin-t.github.io/kits/gbb/) program runs on Game Boy, which generates animated wave endlessly.
 
 This is a re-creation of the [C64 one-liner, wave "animation"](https://www.youtube.com/watch?v=0yKwJJw6Abs)
 
@@ -10,13 +10,13 @@ This is a re-creation of the [C64 one-liner, wave "animation"](https://www.youtu
 
 ### Running
 
-Put "Trilinear Wave.gb" on any Game Boy device, and launch it.
+Put "Cinquain Wave.gb" on any Game Boy device, and launch it. Or try in [browser](https://paladin-t.github.io/cinquain-wave.gbb/index.html).
 
 <img src="docs/screenshot.png" width="576" style="image-rendering: crisp-edges; image-rendering: pixelated; -ms-interpolation-mode: nearest-neighbor;">
 
 ### Source Code
 
-Open "Trilinear Wave.gbb" with the [latest GB BASIC](https://store.steampowered.com/app/2308700/), the only code lines as follows:
+Open "Cinquain Wave.gbb" with the [latest GB BASIC](https://store.steampowered.com/app/2308700/), the only code lines as follows:
 
 ```vb
 1 option SCREEN_MODE, TEXT_MODE
