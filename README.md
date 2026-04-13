@@ -1,6 +1,6 @@
 ## Cinquain Wave
 
-Cinquain Wave is a [GB BASIC](https://paladin-t.github.io/kits/gbb/) program runs on Game Boy, which generates animated wave endlessly.
+Cinquain Wave is a [GB BASIC](https://paladin-t.github.io/kits/gbb/) program runs on Game Boy, which generates animated waves endlessly.
 
 This is a re-creation of the [C64 one-liner, wave "animation"](https://www.youtube.com/watch?v=0yKwJJw6Abs)
 
